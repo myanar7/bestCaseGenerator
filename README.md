@@ -1,6 +1,6 @@
-# Worst Case Of QuickSort
+# Best Case Of QuickSort
 
-It is a method to convert a sorted array to an array which is the worst case for quicksort. You must give an sorted array for the first argument of generate method. Second and third parameters represent lower and upper bound of the array. Last parameter always have to be true for initial condition.
+It is a method to convert a sorted array to an array which is the best case for quicksort. You must give an sorted array for the first argument of generate method. Second and third parameters represent lower and upper bound of the array. Last parameter always have to be true for initial condition.
 
 Here is an example:
 ```java
